@@ -5,28 +5,28 @@ YKS Takip uygulamasının backend bileşeni için temel bilgileri içeren özet 
 
 ## Gereksinimler
 - [ ] **Temel Teknolojiler**:
-  - [ ] Node.js
-  - [ ] Express.js
-  - [ ] MongoDB
+  - [x] Node.js
+  - [x] Express.js
+  - [x] MongoDB
 
 - [ ] **Ek Kütüphaneler**:
-  - [ ] JWT (kullanıcı doğrulama)
-  - [ ] Bcrypt (şifre güvenliği)
-  - [ ] Mongoose (veritabanı modellemesi)
+  - [x] JWT (kullanıcı doğrulama)
+  - [x] Bcrypt (şifre güvenliği)
+  - [x] Mongoose (veritabanı modellemesi)
 
 ## Nasıl Araştırma Yaptık
 
 - [ ] **Kullanıcı Araştırması**:
-  - [ ] YKS öğrencileriyle görüşmeler yapıldı
-  - [ ] Öğretmenlerden konu içeriği ve sıralama önerileri alındı
+  - [x] YKS öğrencileriyle görüşmeler yapıldı
+  - [x] Öğretmenlerden konu içeriği ve sıralama önerileri alındı
 
 - [ ] **Benzer Uygulamalar**:
-  - [ ] Rakip uygulamaların eksik yönleri analiz edildi
-  - [ ] Kullanıcı yorumlarındaki sık şikayetler değerlendirildi
+  - [x] Rakip uygulamaların eksik yönleri analiz edildi
+  - [x] Kullanıcı yorumlarındaki sık şikayetler değerlendirildi
 
 - [ ] **Teknik Araştırma**:
-  - [ ] MongoDB ve SQL çözümleri karşılaştırıldı
-  - [ ] Bildirim sistemleri için en iyi yaklaşım incelendi
+  - [x] MongoDB ve SQL çözümleri karşılaştırıldı
+  - [x] Bildirim sistemleri için en iyi yaklaşım incelendi
 
 ## Mimari
 
