@@ -1,4 +1,4 @@
-# S-navTakipApp.Backend
+# SinavTakipApp.Backend
 # YKS Takip Uygulaması - Backend
 
 YKS Takip uygulamasının backend bileşeni için temel bilgileri içeren özet README dosyası.
